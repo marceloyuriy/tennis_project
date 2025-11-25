@@ -1,4 +1,4 @@
-# 🎾 Tennis Match Predictor (Nome do seu Projeto)
+# 🎾 Tennis Match Predictor
 
 > Um sistema de Inteligência Artificial para previsão de resultados de jogos de Tênis (ATP/WTA) com foco em análise estatística para apostas esportivas.
 
@@ -27,7 +27,7 @@ O objetivo é democratizar o acesso a análises de dados avançadas (Data Scienc
 * **Visualização/Web:** Streamlit (ou Flask/Django - ajuste conforme sua escolha)
 * **APIs:** RapidAPI (Live Score), Jeff Sackmann Github (Dados Históricos)
 
-## 📂 Estrutura de Pastas (Sugestão)
+## 📂 Estrutura de Pastas
 
 ```text
 /
